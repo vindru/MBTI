@@ -1,0 +1,10 @@
+.Result {
+  background-color: white;
+  margin: 10px 120px;
+}
+
+.Result-message {
+  padding: 1em;
+  font-family: "Helvetica Neue";
+  font-size: x-large;
+}
